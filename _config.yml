@@ -1,1 +1,48 @@
+title: "Louis Nathan Essomba : When Human Intelligence Meets Technology"
+description: "Thesis & vision, applied works, research, ethics & ecology, everyday insights."
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Navigation pages (we’ll create these in Step 6)
+header_pages:
+  - foundations.md
+  - applied-works.md
+  - exploring-frontiers.md
+  - ethics-ecology.md
+  - everyday-insights.md
+  - about.md
+
+# Collections (divisions)
+collections:
+  foundations:
+    output: true
+    permalink: /foundations/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+  research:
+    output: true
+    permalink: /research/:name/
+  ethics:
+    output: true
+    permalink: /ethics/:name/
+  life:
+    output: true
+    permalink: /life/:name/
+
+# Subsections for research (we’ll handle with folder names)
+defaults:
+  - scope:
+      path: "_research/independent"
+    values:
+      layout: page
+      subsection: "independent"
+  - scope:
+      path: "_research/companies"
+    values:
+      layout: page
+      subsection: "companies"
 
