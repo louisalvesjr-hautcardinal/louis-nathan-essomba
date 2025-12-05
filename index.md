@@ -12,6 +12,6 @@ I explore Firmware AI, offline-first systems, and sustainable design — tying t
 - **Applied Works:** [Offline-first SaaS for the Global South](/_projects/offline-first-saas-global-south.md/)
 - **Exploring Frontiers (Independent):** [Energy-aware ML](/_research/independent_search/energy-aware-ml.md/)
 - **Exploring Frontiers (Companies):** [Microsoft vs Google vs Tesla](/_research/tech-current-leader/microsoft-google-tesla-visions.md/)
-- **Ethics & Ecology:** [Ethics and ecology are inseparable in tech](/_ethics-ecology/interdependence-ethics-ecology/)
+- **Ethics & Ecology:** [Ethics and ecology are inseparable in tech](/ethics & ecology/interdependence-ethics-ecology/)
 - **Everyday Insights:** [Studying deep math](/_life/studying-deep-math.md/)
 
