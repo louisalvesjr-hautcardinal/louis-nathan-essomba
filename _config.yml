@@ -8,6 +8,7 @@ plugins:
 
 # Navigation pages (we’ll create these in Step 6)
 header_pages:
+  - index.md
   - foundations.md
   - applied-works.md
   - exploring-frontiers.md
@@ -36,13 +37,13 @@ collections:
 # Subsections for research (we’ll handle with folder names)
 defaults:
   - scope:
-      path: "_research/independent"
+      path: "_research/independent_search"
     values:
       layout: page
-      subsection: "independent"
+      subsection: "independent_search"
   - scope:
-      path: "_research/companies"
+      path: "_research/tech-current-leader"
     values:
       layout: page
-      subsection: "companies"
+      subsection: "tech-current-leader"
 
