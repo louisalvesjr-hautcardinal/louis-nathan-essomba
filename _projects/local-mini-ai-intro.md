@@ -1,8 +1,21 @@
 ---
-title: "Local Mini AI — Intro"
-layout: page
-parent: "Local Mini AI — Mobile Assistant"
+title: "Local Mini AI — Introduction"
+date: 2025-12-06
+layout: post
+categories: [projects]
+tags: [project, firmware-ai, mobile]
 ---
 
-## Scope and goals
-Practical needs, on-device intelligence, and why local-first matters.
+## Overview
+A mobile app that embeds a local AI agent for tasks, budgeting, and communication.
+
+## Context
+Designed for classmates to test statistics, probability, and machine learning locally.
+
+## Objectives
+- Bind tasks, budgets, and communication
+- Run lightweight AI logic offline
+- Explore dependency reduction
+
+## Roadmap
+Intro → Technical details → Ethics & Ecology
