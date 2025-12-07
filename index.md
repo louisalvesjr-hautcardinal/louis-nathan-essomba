@@ -10,8 +10,9 @@ I explore Firmware AI, offline-first systems, and sustainable design — tying t
 ---
 
 ## 🔗 Navigation Menu
+<nav>
 [Home](/) | [Foundations](/foundations.md/) | [Applied Works](/applied-works.md/) | [Exploring Frontiers](/exploring-frontiers.md/) | [Ethics & Ecology](/ethics-ecology.md/) | [Everyday Insights](/everyday-insights.md/) | [About Me](/about.md/)
-
+</nav>
 ---
 
 ## Featured
