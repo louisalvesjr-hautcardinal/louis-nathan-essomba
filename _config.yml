@@ -6,6 +6,16 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      css: "/assets/css/style.css"
+
 # Navigation pages (we’ll create these in Step 6)
 header_pages:
   - index.md
@@ -46,15 +56,4 @@ defaults:
     values:
       layout: page
       subsection: "tech-current-leader"
-
-sass:
-  style: compressed
-
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      css: "/assets/css/style.css"
-
 
